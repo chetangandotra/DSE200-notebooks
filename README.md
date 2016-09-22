@@ -1,5 +1,5 @@
-# DSE200-Notebooks-2015
-Repository for the students of DSE200, 2015
+# DSE200-Notebooks-2016
+Repository for the students of DSE200, 2016
 
 This repository will be expanded during the quarter and will hold the notebooks we cover in class, 
 the excercise notebooks, and the solutions to those excercises.
